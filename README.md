@@ -5,7 +5,9 @@
 
 ## Endpoints
 
-To make a payment for an order given its orderId, use <br/> `/payments/orders/{orderId}`
+Health check <br/> `GET /health`
+
+To make a payment for an order given its orderId, use <br/> `GET /payments/orders/{orderId}`
 
 ## Build
 
