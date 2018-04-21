@@ -3,6 +3,10 @@
 ## Pre-requisites
 * Java >=1.8
 
+## Endpoints
+
+To make a payment for an order given its orderId, use <br/> `/payments/orders/{orderId}`
+
 ## Build
 
 To build the application, run `./gradlew build`
